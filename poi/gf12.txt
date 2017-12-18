@@ -1,0 +1,3 @@
+富邦金融中心大樓	25.0382989	121.5522123	point_of_interest,establishment	null	40,923,195,1256
+臺北大巨蛋	25.042528	121.559380	stadium,point_of_interest,establishment	null	3139,1525,3839,2157
+華視大樓	25.043866	121.556361	premise,point_of_interest,establishment	CoQBcwAAAEHmGbwL_ZJTRBOZzkJEHiXuYR6BsDJABoA5T-Fj2cPM8VEai6UHF6s7Oe_ms796jJ7oXOhSkh1ZXRlEU4-_TzjMrmEyCtFaXD9aaPeGqFMNupG7kRuGURfdJvNtQA-wV_vmEoDHMF5dymKkCY45sM3iVavzJvpJ2DIHg6_emzXKEhBqCq3f_Fpz_T4m1FfAE3cIGhQdctiTx-Rdd36kALzlzBpI5tqaNw	2791,1257,3047,1477

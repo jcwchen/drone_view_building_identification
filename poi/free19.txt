@@ -1,0 +1,4 @@
+臺灣民主紀念園區	25.0356791	121.5196742	point_of_interest,establishment	CoQBcwAAAGHWBCySQNu6TobwN4y3TOuO4akV6UC2IF0LJGRUTG07FyI4uBvI_h2ujwU8-DSqma8Gl6HjlamQUYG4Kt1V36G-7oC3APx3ozr-PyQJYdp_S4hmbNz_cxvei_Eyqi02tIa9cZ1WO3_Q0K648bzZ8LXSo0b0A_ulFWcUcR1JEgMVEhDSjRVkW6yZ6VrpHXStwU4_GhQGeio0RIuTYO3gutb19GRwNR_a3g	939,899,2345,2111
+台北金南郵局	25.0317919	121.524804	post_office,finance,point_of_interest,establishment	null	1185,889,1415,963
+中華郵政愛國大樓	25.031313	121.524326	post_office,finance,point_of_interest,establishment	null	1567,889,1725,999
+和平大苑	25.0270014	121.5264293	point_of_interest,establishment	null	1715,555,1813,755
