@@ -1,6 +1,8 @@
 # drone_view_building_identification
 Drone-view building identification by cross-view Triplet deep neural network and relative spatial estimation
 
+Demo video: https://www.dropbox.com/s/7c0prlh5zhtvu2n/demo.avi
+
 1. Environment: 
 tensorflow 0.10.0
 numpy 1.11.0
