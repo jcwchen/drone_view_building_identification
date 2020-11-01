@@ -24,7 +24,7 @@ python retrieval.py --f frame/all
 
 similarity.py: compute similiarty
 
-3. Dataset (will release after paper acceptance)
+3. Dataset https://jcwchen.github.io/DVBI/
 
 (1) Drone-BR
 80 drone-view images: frame/all/
